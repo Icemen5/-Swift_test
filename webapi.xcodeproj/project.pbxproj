@@ -34,6 +34,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CE88D38C22BFBDBE004004F9 /* webapi copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "webapi copy-Info.plist"; path = "/Users/po/Desktop/webapi/webapi copy-Info.plist"; sourceTree = "<absolute>"; };
+		CE88D39A22BFBE59004004F9 /* webapi copy copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "webapi copy copy-Info.plist"; path = "/Users/po/Desktop/webapi/webapi copy copy-Info.plist"; sourceTree = "<absolute>"; };
 		CEFFDD6122BFA8F600AD916A /* webapi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = webapi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEFFDD6422BFA8F600AD916A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CEFFDD6622BFA8F600AD916A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -81,6 +83,8 @@
 				CEFFDD7822BFA8F700AD916A /* webapiTests */,
 				CEFFDD8322BFA8F700AD916A /* webapiUITests */,
 				CEFFDD6222BFA8F600AD916A /* Products */,
+				CE88D38C22BFBDBE004004F9 /* webapi copy-Info.plist */,
+				CE88D39A22BFBE59004004F9 /* webapi copy copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -433,6 +437,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 8H7K77GU5F;
 				INFOPLIST_FILE = webapi/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -450,6 +455,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 8H7K77GU5F;
 				INFOPLIST_FILE = webapi/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
